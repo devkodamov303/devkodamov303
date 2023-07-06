@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dev (@devkodamov303)
 - 👀 I’m interested in computer science, programming, science in general, technology, finance, economics, and business.
-- 🌱 I’m currently learning programming in C++ and Java, and other languages. I'm also learning about finanace, business, and data. 
+- 🌱 I’m currently learning and know programming in C++, C, Python, JavScript, and Java, and other languages. I'm also learning about finanace, business, and data. 
 - 💞️ I’m not looking to collaborate on anything... yet.
-- 📫 Discord: xdevkodar303#4835
+- 📫 Discord: xdevkodar303
 
 <!---
 devkodamov303/devkodamov303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
